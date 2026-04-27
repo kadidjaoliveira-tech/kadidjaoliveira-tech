@@ -1,22 +1,22 @@
-# Olá 👋
+# Olá!
 
-Bem-vindo ao meu perfil GitHub! Sou apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto.
+Bem-vindo ao meu perfil GitHub! Sou apaixonada por criar soluções inovadoras e contribuir para a comunidade de código aberto.
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou um desenvolvedor dedicado a escrever código limpo e eficiente, criando projetos impactantes. Adoro aprender novas tecnologias, colaborar com equipes talentosas e resolver problemas complexos.
+Sou uma desenvolvedora dedicada a escrever código limpo e eficiente, criando projetos com impacto social. Adoro aprender novas tecnologias, colaborar com equipes e resolver problemas complexos.
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
-- **Foco Atual**: Construindo aplicações escaláveis e explorando tecnologias emergentes
-- **Interesses**: Desenvolvimento de software, contribuição em código aberto e aprendizado contínuo
+- **Foco Atual**: Construindo aplicações escaláveis e explorando tecnologias emergentes.
+- **Interesses**: Desenvolvimento de software, contribuição em código aberto e aprendizado contínuo.
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
-- **Linguagens**: [Adicione suas linguagens aqui]
-- **Frameworks & Bibliotecas**: [Adicione seus frameworks aqui]
-- **Ferramentas & Plataformas**: [Adicione suas ferramentas aqui]
-- **Especializações**: [Adicione suas especializações aqui]
+- **Linguagens**: Python, JavaScript e TypeScript.
+- **Frameworks & Bibliotecas**: [Django, Flask.]
+- **Ferramentas & Plataformas**: [GitHub, Design System, Pesquisa-com-usuários, Ferramentas de desenvolvedor do Chrome, Lighthouse, Flutter, entre outr@s]
+- **Especializações**: [Tecnologias de Redes (CISCO), Gestão em EaD, Letramento Informacional, Educação Digital.]
 
 ## 📚 Projetos em Destaque
 
@@ -41,7 +41,7 @@ Breve descrição do seu projeto e o que o torna especial.
 - [Tecnologia/Habilidade 2]
 - [Tecnologia/Habilidade 3]
 
-## 💡 Aberto para Colaborações Em
+## 💡 Aberto para Colaborações em
 
 - Projetos de código aberto
 - Ideias inovadoras de startups
