@@ -19,5 +19,3 @@ Sou uma desenvolvedora dedicada a escrever código limpo e eficiente, criando pr
 - **Especializações**: [Tecnologias de Redes (CISCO), Gestão em EaD, Letramento Informacional, Educação Digital.]
 
 ---
-
-*Última atualização: 2026-04-24*
